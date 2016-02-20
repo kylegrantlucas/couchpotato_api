@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'couchpotato_api/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "couchpoatao_api"
+  spec.name          = "couchpotato_api"
   spec.version       = CouchpotatoApi::VERSION
   spec.authors       = ["kylegrantlucas"]
   spec.email         = ["kglucas93@gmail.com"]

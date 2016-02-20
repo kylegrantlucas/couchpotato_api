@@ -1,3 +1,5 @@
+require 'takeout'
+
 module CouchpotatoApi
   class Client
     attr_accessor :client
